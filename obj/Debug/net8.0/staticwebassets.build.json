@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "ArIXondHMQePhcP9A/FlawkIMvS/t2qZq0fGd995xcM=",
+  "Source": "bangun",
+  "BasePath": "_content/bangun",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "bangun\\wwwroot",
+      "Source": "bangun",
+      "ContentRoot": "C:\\Users\\alif3\\source\\repos\\bangun\\wwwroot\\",
+      "BasePath": "_content/bangun",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alif3\\source\\repos\\bangun\\wwwroot\\uploads\\3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg",
+      "SourceId": "bangun",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alif3\\source\\repos\\bangun\\wwwroot\\",
+      "BasePath": "_content/bangun",
+      "RelativePath": "uploads/3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gh93rjgubc",
+      "Integrity": "xPm3LYGfoOcdhqAZR7uuxehc9hDDu5IwlFXegqAZdbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.gh93rjgubc.jpg",
+      "AssetFile": "C:\\Users\\alif3\\source\\repos\\bangun\\wwwroot\\uploads\\3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xPm3LYGfoOcdhqAZR7uuxehc9hDDu5IwlFXegqAZdbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 13:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gh93rjgubc"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xPm3LYGfoOcdhqAZR7uuxehc9hDDu5IwlFXegqAZdbw="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg",
+      "AssetFile": "C:\\Users\\alif3\\source\\repos\\bangun\\wwwroot\\uploads\\3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "133445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xPm3LYGfoOcdhqAZR7uuxehc9hDDu5IwlFXegqAZdbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 04 Jun 2025 13:04:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xPm3LYGfoOcdhqAZR7uuxehc9hDDu5IwlFXegqAZdbw="
+        }
+      ]
+    }
+  ]
+}

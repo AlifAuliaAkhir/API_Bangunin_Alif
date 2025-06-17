@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>bangun</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/bangun</BasePath>
+      <RelativePath>uploads/3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>gh93rjgubc</Fingerprint>
+      <Integrity>xPm3LYGfoOcdhqAZR7uuxehc9hDDu5IwlFXegqAZdbw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\3ce0ca0a-2c85-4750-af01-e57873ed385f_WIN_20240613_12_09_42_Pro.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
